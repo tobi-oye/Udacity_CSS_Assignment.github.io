@@ -391,9 +391,15 @@ footer {
   text-align: center;
 }
 
+/* footer li {
+  display: inline-block;
+  margin: 0 1em;
+} */
+
 footer li {
   display: inline-block;
   margin: 0 1em;
+  width: 50%;
 }
 
 footer a {
